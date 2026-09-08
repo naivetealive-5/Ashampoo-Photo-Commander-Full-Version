@@ -238,3 +238,6 @@ This repository serves as the official landing page for Ashampoo Photo Commander
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Ashampoo Photo Commander today!**
+
+---
+**Last updated:** 2026-09-08 05:25:39 UTC
