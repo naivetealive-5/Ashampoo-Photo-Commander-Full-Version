@@ -240,4 +240,4 @@ This repository serves as the official landing page for Ashampoo Photo Commander
 **Get the most recent version of Ashampoo Photo Commander today!**
 
 ---
-**Last updated:** 2026-09-09 22:04:56 UTC
+**Last updated:** 2026-09-10 00:42:21 UTC
